@@ -1,7 +1,9 @@
-### Hi there 👋
+![Walsvid's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ingra14m&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
-<!--
-**zhang-yunfan/zhang-yunfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=ingra14m)
+
+<!-- 
+**ingra14m/ingra14m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
